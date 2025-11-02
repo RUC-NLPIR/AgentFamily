@@ -64,6 +64,8 @@ Welcome to the **RUC-NLPIR Agent Family**! Our mission is to develop general-pur
 
 **[AEPO: Agentic Entropy-Balanced Policy Optimization](https://arxiv.org/abs/2510.14545)**
 
+🏆 *HuggingFace Daily Paper #2*
+
 Advanced agentic RL algorithm balancing entropy in rollout and policy update phases for superior stability.
 
 [![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/RUC-NLPIR/ARPO)
@@ -75,8 +77,42 @@ Advanced agentic RL algorithm balancing entropy in rollout and policy update pha
 
 **[ARPO: Agentic Reinforced Policy Optimization](https://arxiv.org/abs/2507.19849)**
 
-🏆 *HuggingFace Daily #1*
+🏆 *HuggingFace Weekly Paper #1*
 
+Pioneering agentic RL with entropy-driven adaptive branching for enhanced exploration during tool calls.
+
+[![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/RUC-NLPIR/ARPO)
+[![arXiv](https://img.shields.io/badge/arXiv-2507.19849-b31b1b.svg)](https://arxiv.org/abs/2507.19849)
+[![Stars](https://img.shields.io/github/stars/RUC-NLPIR/ARPO?style=social)](https://github.com/RUC-NLPIR/ARPO)
+
+</td>
+</tr>
+</table>
+
+---
+## 🔥 Agent Family
+
+### 🤖 Agentic Reinforcement Learning
+
+<table>
+<tr>
+<td width="50%">
+
+**[AEPO: Agentic Entropy-Balanced Policy Optimization](https://arxiv.org/abs/2510.14545)**
+
+🏆 *HuggingFace Daily Paper #2*
+
+Advanced agentic RL algorithm balancing entropy in rollout and policy update phases for superior stability.
+
+[![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/RUC-NLPIR/ARPO)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.14545-b31b1b.svg)](https://arxiv.org/abs/2510.14545)
+[![Stars](https://img.shields.io/github/stars/RUC-NLPIR/ARPO?style=social)](https://github.com/RUC-NLPIR/ARPO)
+
+</td>
+<td width="50%">
+**[ARPO: Agentic Reinforced Policy Optimization](https://arxiv.org/abs/2507.19849)**
+
+🏆 *HuggingFace Weekly Paper #1*
 Pioneering agentic RL with entropy-driven adaptive branching for enhanced exploration during tool calls.
 
 [![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/RUC-NLPIR/ARPO)
@@ -97,7 +133,7 @@ Pioneering agentic RL with entropy-driven adaptive branching for enhanced explor
 
 **[Search-o1: Agentic Search-Enhanced LRMs](https://arxiv.org/abs/2501.05366)**
 
-*EMNLP 2025*
+*Accepted at EMNLP 2025 Main Conference*
 
 Prompt-based reasoning with integrated autonomous knowledge retrieval through Agentic RAG.
 
@@ -108,7 +144,7 @@ Prompt-based reasoning with integrated autonomous knowledge retrieval through Ag
 </td>
 <td width="50%">
 
-**[WebThinker: Think-Search-Write Agent](https://arxiv.org/abs/2504.21776)** 
+**[WebThinker: Think-Search-Write Agent](https://arxiv.org/abs/2504.21776)**
 
 *NeurIPS 2025*
 
@@ -124,7 +160,6 @@ Deep research agent with simultaneous thinking, searching, and report writing ca
 <td width="50%">
 
 **[HiRA: Hierarchical Reasoning Framework](https://arxiv.org/abs/2507.02652)**
-
 Decoupled planning and execution with strategic planning and domain-specific execution modules.
 
 [![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/RUC-NLPIR/HiRA)
@@ -138,7 +173,9 @@ Decoupled planning and execution with strategic planning and domain-specific exe
 
 Hierarchical search across local and online knowledge sources for comprehensive information retrieval.
 
+[![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/plageon/HierSearch)
 [![arXiv](https://img.shields.io/badge/arXiv-2508.08088-b31b1b.svg)](https://arxiv.org/abs/2508.08088)
+[![Stars](https://img.shields.io/github/stars/plageon/HierSearch?style=social)](https://github.com/plageon/HierSearch)
 
 </td>
 </tr>
@@ -178,46 +215,40 @@ Multi-tool collaboration with Self-Critic RL for autonomous tool interaction and
 
 **[ToolScope: Multimodal Long-Context Tool Agent](https://arxiv.org/abs/TBD)**
 
-Advanced multimodal agent for long-range tool invocation across text, image, and video modalities.
-
-[![Coming Soon](https://img.shields.io/badge/Code-Coming%20Soon-orange)]()
+Advanced multimodal agent for long-range tool invocation across text, image, and video modalities.[![Code Coming Soon](https://img.shields.io/badge/Code-Coming%20Soon-orange)]()
+[![arXiv](https://img.shields.io/badge/arXiv-TBD-b31b1b.svg)]()
 
 </td>
 <td width="50%">
 
 **[Tool-Light: Efficient Tool Invocation](https://arxiv.org/abs/2509.23285)**
-
 Lightweight optimization strategies encouraging efficient tool calling with minimal overhead.
 
+[![Code Not Available](https://img.shields.io/badge/Code-Not%20Available-lightgrey)]()
 [![arXiv](https://img.shields.io/badge/arXiv-2509.23285-b31b1b.svg)](https://arxiv.org/abs/2509.23285)
 
 </td>
 </tr>
 </table>
-
 ---
 
 ### 🎯 Domain-Specific Agents
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%">**[FinSight (玉兰融观): Financial Research Agent](https://arxiv.org/abs/2510.16844)**
 
-**[FinSight (玉兰融观): Financial Research Agent](https://arxiv.org/abs/2510.16844)**
-
-Specialized agent for financial report generation, analysis, and investment research automation.
-
+Specialized agent for financial report generation, analysis, and investment research automation.[![Code Not Available](https://img.shields.io/badge/Code-Not%20Available-lightgrey)]()
 [![arXiv](https://img.shields.io/badge/arXiv-2510.16844-b31b1b.svg)](https://arxiv.org/abs/2510.16844)
 
 </td>
 <td width="50%">
-
 **[VideoExplorer: Long Video Understanding](https://arxiv.org/abs/2506.10821)**
 
 Deep research methodology for comprehensive long-form video analysis and question answering.
 
+[![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/yhy-2000/VideoDeepResearch)
 [![arXiv](https://img.shields.io/badge/arXiv-2506.10821-b31b1b.svg)](https://arxiv.org/abs/2506.10821)
-
+[![Stars](https://img.shields.io/github/stars/yhy-2000/VideoDeepResearch?style=social)](https://github.com/yhy-2000/VideoDeepResearch)
 </td>
 </tr>
 </table>
