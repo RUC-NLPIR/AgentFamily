@@ -4,10 +4,10 @@
 
 <h4>Towards General, Scalable, Powerful, and Safe Intelligent Agents</h4>
 
-[![GitHub Stars](https://img.shields.io/github/stars/RUC-NLPIR/ARPO?style=social)](https://github.com/RUC-NLPIR/ARPO)
+[![GitHub Stars](https://github.com/RUC-NLPIR/AgentFamily?style=social)](https://github.com/RUC-NLPIR/AgentFamily)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Paper](https://img.shields.io/badge/Papers-12+-red)](https://arxiv.org/abs/2507.19849)
-[![HuggingFace](https://img.shields.io/badge/🤗-Models%20%26%20Datasets-yellow)](https://huggingface.co/collections/dongguanting/arpo-688229ff8a6143fe5b4ad8ae)
+[![Paper](https://img.shields.io/badge/Papers-12+-red)]()
+[![HuggingFace](https://img.shields.io/badge/🤗-Models%20%26%20Datasets-yellow)]()
 
 <p align="center">
   <a href="#-latest-news">News</a> •
