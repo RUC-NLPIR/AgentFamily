@@ -2,7 +2,7 @@
 
 # ✨ RUC-NLPIR Agent Family
 
-<h4>Building General, Scalable, Powerful, and Safe Super Agents</h4>
+<h4>Toward General, Scalable, Powerful, and Safe Reasoning Agents</h4>
 
 [![GitHub Stars](https://img.shields.io/github/stars/RUC-NLPIR/ARPO?style=social)](https://github.com/RUC-NLPIR/ARPO)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
