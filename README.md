@@ -316,11 +316,11 @@ High-quality datasets for agentic training and evaluation:
 
 Pre-trained and fine-tuned models ready for deployment:
 
-| Model | Base | Parameters | Type | Performance | Download |
-|-------|------|------------|------|-------------|----------|
-| Qwen2.5-7B-RA-SFT | Qwen2.5-7B | 7B | SFT | General Agent | [🤗 HuggingFace](https://huggingface.co/Gen-Verse/Qwen2.5-7B-RA-SFT) |
-| Qwen3-4B-RA-SFT | Qwen3-4B | 4B | SFT | Efficient Agent | [🤗 HuggingFace](https://huggingface.co/Gen-Verse/Qwen3-4B-RA-SFT) |
-| DemyAgent-4B | Qwen3-4B | 4B | Agent | Multi-Tool | [🤗 HuggingFace](https://huggingface.co/Gen-Verse/DemyAgent-4B) |
+| Name| Model | Base | Parameters | Type | Performance | Download |
+|---------|-------|------|------------|------|-------------|----------|
+| AEPO| Qwen2.5-7B-RA-SFT | Qwen2.5-7B | 7B | SFT | General Agent | [🤗 HuggingFace](https://huggingface.co/Gen-Verse/Qwen2.5-7B-RA-SFT) |
+| AEPO| Qwen3-4B-RA-SFT | Qwen3-4B | 4B | SFT | Efficient Agent | [🤗 HuggingFace](https://huggingface.co/Gen-Verse/Qwen3-4B-RA-SFT) |
+| AEPO| DemyAgent-4B | Qwen3-4B | 4B | Agent | Multi-Tool | [🤗 HuggingFace](https://huggingface.co/Gen-Verse/DemyAgent-4B) |
 
 > [!NOTE]
 > **Full Model Collection:** 3B~14B model checkpoints available in our [🤗 ARPO Collection](https://huggingface.co/collections/dongguanting/arpo-688229ff8a6143fe5b4ad8ae)
