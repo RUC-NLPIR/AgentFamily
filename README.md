@@ -23,7 +23,7 @@
 
 ## 🎯 Overview
 
-Welcome to the **RUC-NLPIR Agent Family**! Our mission is to develop general-purpose, scalable, powerful, and secure intelligent agents. This repository encompasses **12+ cutting-edge agent systems** across multiple research directions:
+Welcome to the **RUC-NLPIR Agent Family**! Our mission is to develop general-purpose, scalable, powerful, and secure intelligent agents. This repository encompasses **10+ cutting-edge agent systems** across multiple research directions:
 
 - 🔍 **Deep Search & Research Agents**: Advanced information seeking, synthesis, and report generation
 - 🛠️ **Multi-Tool Reasoning Agents**: Autonomous tool discovery, optimization, and execution
@@ -37,6 +37,8 @@ Welcome to the **RUC-NLPIR Agent Family**! Our mission is to develop general-pur
 ---
 
 ## 📣 Latest News
+
+- **[October 27, 2025]**: 📄 DeepAgent is now available on **[arXiv](https://arxiv.org/abs/2510.21618)** and **[Hugging Face](https://huggingface.co/papers/2510.21618)**.
 
 - **[Oct 14, 2025]** 🚀 **AEPO Released!** Entropy-balanced agentic RL algorithm with superior performance on GAIA, HLE, and AIME. [[Code]](https://github.com/RUC-NLPIR/ARPO/tree/main/AEPO) [[Models]](https://huggingface.co/collections/dongguanting/aepo-68ef6832c99697ee03d5e1c7)
 
