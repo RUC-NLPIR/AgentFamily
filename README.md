@@ -25,11 +25,11 @@
 
 ## 🎯 Overview
 
-Welcome to the **RUC-NLPIR Agent Family**! Our mission is to develop general-purpose, scalable, powerful, and secure intelligent agents. This repository encompasses:
+Welcome to the **RUC-NLPIR Agent Family**! Our goal is to develop general-purpose, scalable, powerful, and secure intelligent agents. This repository encompasses:
 
-- 🔍 **Deep Search & Research Agents**: Advanced information retrieval and synthesis
+- 🔍 **Deep Search & Research Agents**: Advanced information seeking and synthesis
 - 🛠️ **Multi-Tool Reasoning Agents**: Autonomous tool discovery and execution
-- 🚀 **Agentic Reinforcement Learning**: State-of-the-art RL algorithms for agent training
+- 🚀 **Agentic Reinforcement Learning**: Effective RL algorithms for agent training
 - 📊 **Comprehensive Benchmarks**: Evaluation datasets and protocols
 
 > [!TIP]
