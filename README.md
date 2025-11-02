@@ -305,10 +305,10 @@ graph TB
 
 High-quality datasets for agentic training and evaluation:
 
-| Dataset | Size | Type | Description | Download |
-|---------|------|------|-------------|----------|
-| Open-AgentRL-SFT | 3K | Supervised Fine-tuning | High-quality SFT data for agent initialization | [🤗 HuggingFace](https://huggingface.co/datasets/Gen-Verse/Open-AgentRL-SFT-3K) |
-| Open-AgentRL | 30K | Reinforcement Learning | Diverse RL training scenarios | [🤗 HuggingFace](https://huggingface.co/datasets/Gen-Verse/Open-AgentRL-30K) |
+| Name| Dataset | Size | Type | Description | Download |
+|---------|---------|------|------|-------------|----------|
+| AEPO| Open-AgentRL-SFT | 3K | Supervised Fine-tuning | High-quality SFT data for agent initialization | [🤗 HuggingFace](https://huggingface.co/datasets/Gen-Verse/Open-AgentRL-SFT-3K) |
+| AEPO| Open-AgentRL | 30K | Reinforcement Learning | Diverse RL training scenarios | [🤗 HuggingFace](https://huggingface.co/datasets/Gen-Verse/Open-AgentRL-30K) |
 
 ---
 
