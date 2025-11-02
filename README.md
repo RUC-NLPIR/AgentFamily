@@ -40,7 +40,7 @@ Welcome to the **RUC-NLPIR Agent Family**! Our mission is to develop general-pur
 
 - **[October 27, 2025]**: 📄 DeepAgent is now available on **[arXiv](https://arxiv.org/abs/2510.21618)** and **[Hugging Face](https://huggingface.co/papers/2510.21618)**.
 
-- **[Oct 14, 2025]** 🚀 **AEPO Released!** Entropy-balanced agentic RL algorithm with superior performance on GAIA, HLE, and AIME. [[Code]](https://github.com/RUC-NLPIR/ARPO/tree/main/AEPO) [[Models]](https://huggingface.co/collections/dongguanting/aepo-68ef6832c99697ee03d5e1c7)
+- **[Oct 14, 2025]** 🚀 **AEPO Released!** Entropy-balanced agentic RL algorithm with superior performance on GAIA, HLE, and AIME. AEPO is now available on [Arxiv](https://arxiv.org/abs/2510.14545)[[Code]](https://github.com/RUC-NLPIR/ARPO/tree/main/AEPO) [[🤗Hugging Face]](https://huggingface.co/collections/dongguanting/aepo-68ef6832c99697ee03d5e1c7) [Blog](https://mp.weixin.qq.com/s/mL3CTNonZVoLWnQVfK7KAw)
 
 - **[Sept 23, 2025]** 📄 **Tool-Light** released! Encouraging efficient tool invocation through lightweight optimization strategies. [[Paper]](https://arxiv.org/abs/2509.23285)
 
@@ -89,7 +89,6 @@ Pioneering agentic RL with entropy-driven adaptive branching for enhanced explor
 </tr>
 </table>
 
----
 ## 🔥 Agent Family
 
 ### 🤖 Agentic Reinforcement Learning
@@ -110,9 +109,11 @@ Advanced agentic RL algorithm balancing entropy in rollout and policy update pha
 
 </td>
 <td width="50%">
+
 **[ARPO: Agentic Reinforced Policy Optimization](https://arxiv.org/abs/2507.19849)**
 
 🏆 *HuggingFace Weekly Paper #1*
+
 Pioneering agentic RL with entropy-driven adaptive branching for enhanced exploration during tool calls.
 
 [![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/RUC-NLPIR/ARPO)
@@ -131,7 +132,7 @@ Pioneering agentic RL with entropy-driven adaptive branching for enhanced explor
 <tr>
 <td width="50%">
 
-**[Search-o1: Agentic Search-Enhanced LRMs](https://arxiv.org/abs/2501.05366)**
+**[Search-o1: Agentic Search-Enhanced Large Reasoning Models](https://arxiv.org/abs/2501.05366)**
 
 *Accepted at EMNLP 2025 Main Conference*
 
@@ -144,7 +145,7 @@ Prompt-based reasoning with integrated autonomous knowledge retrieval through Ag
 </td>
 <td width="50%">
 
-**[WebThinker: Think-Search-Write Agent](https://arxiv.org/abs/2504.21776)**
+**[WebThinker: Empowering Large Reasoning Models with Deep Research Capability](https://arxiv.org/abs/2504.21776)**
 
 *NeurIPS 2025*
 
@@ -159,7 +160,8 @@ Deep research agent with simultaneous thinking, searching, and report writing ca
 <tr>
 <td width="50%">
 
-**[HiRA: Hierarchical Reasoning Framework](https://arxiv.org/abs/2507.02652)**
+**[HiRA: Decoupled Planning and Execution: A Hierarchical Reasoning Framework for Deep Search](https://arxiv.org/abs/2507.02652)**
+
 Decoupled planning and execution with strategic planning and domain-specific execution modules.
 
 [![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/RUC-NLPIR/HiRA)
@@ -169,7 +171,7 @@ Decoupled planning and execution with strategic planning and domain-specific exe
 </td>
 <td width="50%">
 
-**[HierSearch: Multi-Source Deep Search](https://arxiv.org/abs/2508.08088)**
+**[HierSearch: A Hierarchical Enterprise Deep Search Framework Integrating Local and Web Searches](https://arxiv.org/abs/2508.08088)**
 
 Hierarchical search across local and online knowledge sources for comprehensive information retrieval.
 
@@ -189,7 +191,7 @@ Hierarchical search across local and online knowledge sources for comprehensive 
 <tr>
 <td width="50%">
 
-**[DeepAgent: Scalable Toolsets](https://arxiv.org/abs/2510.21618)**
+**[DeepAgent: A General Reasoning Agent with Scalable Toolsets](https://arxiv.org/abs/2510.21618)**
 
 End-to-end reasoning agent with autonomous thinking, tool discovery, and brain-inspired memory folding.
 
@@ -200,7 +202,7 @@ End-to-end reasoning agent with autonomous thinking, tool discovery, and brain-i
 </td>
 <td width="50%">
 
-**[Tool-Star: Multi-Tool Reasoner via RL](https://arxiv.org/abs/2505.16410)**
+**[Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Self-Critic RL](https://arxiv.org/abs/2505.16410)**
 
 Multi-tool collaboration with Self-Critic RL for autonomous tool interaction and coordination.
 
@@ -213,15 +215,18 @@ Multi-tool collaboration with Self-Critic RL for autonomous tool interaction and
 <tr>
 <td width="50%">
 
-**[ToolScope: Multimodal Long-Context Tool Agent](https://arxiv.org/abs/TBD)**
+**[ToolScope: Enhancing LLM Agent Tool Use through Tool Merging and Context-Aware Filtering](https://arxiv.org/abs/2510.20036)**
 
-Advanced multimodal agent for long-range tool invocation across text, image, and video modalities.[![Code Coming Soon](https://img.shields.io/badge/Code-Coming%20Soon-orange)]()
-[![arXiv](https://img.shields.io/badge/arXiv-TBD-b31b1b.svg)]()
+Framework optimizing LLM agent tool selection by merging semantically similar tools and context-aware filtering.
+
+[![Code Coming Soon](https://img.shields.io/badge/Code-Coming%20Soon-orange)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2510.20036-b31b1b.svg)](https://arxiv.org/abs/2510.20036)
 
 </td>
 <td width="50%">
 
-**[Tool-Light: Efficient Tool Invocation](https://arxiv.org/abs/2509.23285)**
+**[Tool-Light: Toward Effective Tool-Integrated Reasoning via Self-Evolved Preference Learning](https://arxiv.org/abs/2509.23285)**
+
 Lightweight optimization strategies encouraging efficient tool calling with minimal overhead.
 
 [![Code Not Available](https://img.shields.io/badge/Code-Not%20Available-lightgrey)]()
@@ -230,28 +235,37 @@ Lightweight optimization strategies encouraging efficient tool calling with mini
 </td>
 </tr>
 </table>
+
 ---
 
 ### 🎯 Domain-Specific Agents
+
 <table>
 <tr>
-<td width="50%">**[FinSight (玉兰融观): Financial Research Agent](https://arxiv.org/abs/2510.16844)**
+<td width="50%">
 
-Specialized agent for financial report generation, analysis, and investment research automation.[![Code Not Available](https://img.shields.io/badge/Code-Not%20Available-lightgrey)]()
+**[FinSight: Towards Real-World Financial Deep Research](https://arxiv.org/abs/2510.16844)**
+
+Specialized agent for financial report generation, analysis, and investment research automation.
+
+[![Code Not Available](https://img.shields.io/badge/Code-Not%20Available-lightgrey)]()
 [![arXiv](https://img.shields.io/badge/arXiv-2510.16844-b31b1b.svg)](https://arxiv.org/abs/2510.16844)
 
 </td>
 <td width="50%">
-**[VideoExplorer: Long Video Understanding](https://arxiv.org/abs/2506.10821)**
+
+**[VideoExplorer: Think With Videos For Agentic Long-Video Understanding](https://arxiv.org/abs/2506.10821)**
 
 Deep research methodology for comprehensive long-form video analysis and question answering.
 
 [![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/yhy-2000/VideoDeepResearch)
 [![arXiv](https://img.shields.io/badge/arXiv-2506.10821-b31b1b.svg)](https://arxiv.org/abs/2506.10821)
 [![Stars](https://img.shields.io/github/stars/yhy-2000/VideoDeepResearch?style=social)](https://github.com/yhy-2000/VideoDeepResearch)
+
 </td>
 </tr>
 </table>
+
 
 ---
 
