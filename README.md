@@ -4,7 +4,7 @@
 
 <h4>Towards General, Scalable, Powerful, and Safe Intelligent Agents</h4>
 
-[![GitHub Stars](https://github.com/RUC-NLPIR/AgentFamily?style=social)](https://github.com/RUC-NLPIR/AgentFamily)
+[![GitHub Stars](https://img.shields.io/github/stars/RUC-NLPIR/AgentFamily?style=social)](https://github.com/RUC-NLPIR/AgentFamily)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Paper](https://img.shields.io/badge/Papers-12+-red)]()
 [![HuggingFace](https://img.shields.io/badge/🤗-Models%20%26%20Datasets-yellow)]()
