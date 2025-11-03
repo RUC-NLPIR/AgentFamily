@@ -1,6 +1,7 @@
 <div align="center">
+<img width="587" height="182" alt="截屏2025-11-03 10 01 01" src="https://github.com/user-attachments/assets/f6aa78dd-5e74-49c7-ae52-0b2d651b7b22" />
 
-<img src="https://github.com/user-attachments/assets/835cbd2f-953d-464c-8fb2-154c05bb8ae4" alt="RUC-NLPIR Agent Family" width="483" height="162">
+
 
 # ✨ RUC-NLPIR Agent Family
 
