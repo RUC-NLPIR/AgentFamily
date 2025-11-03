@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/user-attachments/assets/835cbd2f-953d-464c-8fb2-154c05bb8ae4" alt="RUC-NLPIR Agent Family" width="483" height="162">
+
 # ✨ RUC-NLPIR Agent Family
 
 <h3>Towards General, Scalable, Powerful, and Safe Intelligent Agents</h3>
