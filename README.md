@@ -394,7 +394,7 @@ If you find our work helpful, please cite the relevant papers:
 </details>
 
 <details>
-<summary><b>🔍 Deep Research & Search Agents</b></summary>
+<summary><b>🔍 Deep Search & Research Agents</b></summary>
 
 ```bibtex
 @inproceedings{li2025searcho1,
