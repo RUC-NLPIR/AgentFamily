@@ -514,7 +514,6 @@ This project is released under the [MIT License](LICENSE). Feel free to use our 
 
 For questions, collaborations, or feedback, please reach out:
 
-<div align="center">
 
 📧 **Email**: [dou@ruc.edu.cn](mailto:dou@ruc.edu.cn)
 
@@ -522,7 +521,7 @@ For questions, collaborations, or feedback, please reach out:
 
 💬 **GitHub Issues**: [Report Issues](https://github.com/RUC-NLPIR/AgentFamily/issues)
 
-</div>
+
 
 ---
 
