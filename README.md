@@ -305,8 +305,8 @@ graph TB
 
 ---
 
-> [!NOTE]
-> **Full Model Collections:** 
+
+## 🤗 Huggingface Collections:** 
 > - 🤗 [ARPO Collection](https://huggingface.co/collections/dongguanting/arpo): 3B~14B ARPO model checkpoints
 > - 🤗 [AEPO Collection](https://huggingface.co/collections/dongguanting/aepo): Complete AEPO model series
 > - 🤗 [Tool-Star Collection](https://huggingface.co/collections/dongguanting/tool-star): 0.5B~7B Tool-Star models
