@@ -282,14 +282,13 @@ graph TB
 ---
 
 
-## 🤗 Huggingface Collections: 
+## 🤗 Huggingface Model & Datasets: 
 > - 🤗 [ARPO Collection](https://huggingface.co/collections/dongguanting/arpo): SFT & RL datasets & 3B~14B ARPO model checkpoints
 > - 🤗 [AEPO Collection](https://huggingface.co/collections/dongguanting/aepo):  7B~14B AEPO model series
 > - 🤗 [Tool-Star Collection](https://huggingface.co/collections/dongguanting/tool-star): SFT & RL datasets & 0.5B~7B Tool-Star models
 > - 🤗 [Webthinker Collection](https://huggingface.co/collections/lixiaoxi45/webthinker-6812d5fd1287ee53d68f0557)：7B~32B WebThinker models
-> - 🤗 [DeepAgent Collection](https://huggingface.co/datasets/lixiaoxi45/DeepAgent-Datasets)：DeepAgent evaluation benchmarks
-
-
+> - 🤗 [DeepAgent Collection](https://huggingface.co/datasets/lixiaoxi45/DeepAgent-Datasets): DeepAgent evaluation benchmarks
+> - 🤗 [Hiersearch Collection](https://huggingface.co/collections/zstanjj/hiersearch): HierSearch Local, web and Planner models
 ---
 
 
