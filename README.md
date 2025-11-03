@@ -483,46 +483,6 @@ Deep research methodology for comprehensive long-form video analysis and questio
 
 ---
 
-## 📦 Dataset
-
-High-quality datasets for agentic training and evaluation:
-
-| Name | Dataset | Size | Type | Description | Download |
-|---------|---------|------|------|-------------|----------|
-| AEPO | Open-AgentRL-SFT | 3K | Supervised Fine-tuning | High-quality SFT data for agent initialization | [🤗 HuggingFace](https://huggingface.co/datasets/Gen-Verse/Open-AgentRL-SFT-3K) |
-| AEPO | Open-AgentRL | 30K | Reinforcement Learning | Diverse RL training scenarios | [🤗 HuggingFace](https://huggingface.co/datasets/Gen-Verse/Open-AgentRL-30K) |
-| ARPO | ARPO-SFT | 54.6K | Supervised Fine-tuning | High-quality SFT data for agentic reasoning | [🤗 HuggingFace](https://huggingface.co/datasets/dongguanting/ARPO-SFT-54K) |
-| ARPO | ARPO-RL-Reasoning | 10K | Reinforcement Learning | RL training data for reasoning tasks | [🤗 HuggingFace](https://huggingface.co/datasets/dongguanting/ARPO-RL-Reasoning-10K) |
-| ARPO | ARPO-RL-DeepSearch | 1K | Reinforcement Learning | RL training data for deep search tasks | [🤗 HuggingFace](https://huggingface.co/datasets/dongguanting/ARPO-RL-DeepSearch-1K) |
-| Tool-Star | Tool-Star-SFT | 54K | Supervised Fine-tuning | High-quality SFT for tool-integrated reasoning | [🤗 HuggingFace](https://huggingface.co/datasets/dongguanting/Tool-Star-SFT-54K) |
-| Tool-Star | Multi-Tool-RL | 10K | Reinforcement Learning | RL training for multi-tool environments | [🤗 HuggingFace](https://huggingface.co/datasets/dongguanting/Multi-Tool-RL-10K) |
-| HierSearch | HierSearch-Datasets | - | Deep Search | Constructed graphs for six benchmarks | [🤗 HuggingFace](https://huggingface.co/datasets/zstanjj/HierSearch-Datasets) |
-| VideoExplorer | VideoExplorer-Dataset | - | Long Video Understanding | Training data with difficulty-adaptive sampling | [🤗 HuggingFace](https://huggingface.co/datasets/avery00/VideoExplorer-Dataset) |
-
----
-
-## 🤖 Model Zoo
-
-Pre-trained and fine-tuned models ready for deployment:
-
-| Name | Model | Base | Parameters | Type | Performance | Download |
-|---------|-------|------|------------|------|-------------|----------|
-| AEPO | Qwen2.5-7B-AEPO | Qwen2.5-7B | 7B | Agent | General Agent | [🤗 HuggingFace](https://huggingface.co/dongguanting/Qwen2.5-7B-AEPO) |
-| AEPO | Qwen3-8B-AEPO-DeepSearch | Qwen3-8B | 8B | Agent | Deep Search | [🤗 HuggingFace](https://huggingface.co/dongguanting/Qwen3-8B-AEPO-DeepSearch) |
-| AEPO | Qwen3-14B-AEPO-DeepSearch | Qwen3-14B | 14B | Agent | Deep Search | [🤗 HuggingFace](https://huggingface.co/dongguanting/Qwen3-14B-AEPO-DeepSearch) |
-| ARPO | Qwen2.5-7B-ARPO | Qwen2.5-7B | 7B | Agent | General Agent | [🤗 HuggingFace](https://huggingface.co/dongguanting/Qwen2.5-7B-ARPO) |
-| ARPO | Qwen3-8B-ARPO-DeepSearch | Qwen3-8B | 8B | Agent | Deep Search | [🤗 HuggingFace](https://huggingface.co/dongguanting/Qwen3-8B-ARPO-DeepSearch) |
-| ARPO | Qwen3-14B-ARPO-DeepSearch | Qwen3-14B | 14B | Agent | Deep Search | [🤗 HuggingFace](https://huggingface.co/dongguanting/Qwen3-14B-ARPO-DeepSearch) |
-| ARPO | Llama3.1-8B-ARPO | Llama3.1-8B | 8B | Agent | General Agent | [🤗 HuggingFace](https://huggingface.co/dongguanting/Llama3.1-8B-ARPO) |
-| ARPO | Qwen2.5-3B-ARPO | Qwen2.5-3B | 3B | Agent | Efficient Agent | [🤗 HuggingFace](https://huggingface.co/dongguanting/Qwen2.5-3B-ARPO) |
-| Tool-Star | Tool-Star-Qwen-0.5B | Qwen2.5-0.5B | 0.5B | Multi-Tool | Lightweight | [🤗 HuggingFace](https://huggingface.co/dongguanting/Tool-Star-Qwen-0.5B) |
-| Tool-Star | Tool-Star-Qwen-1.5B | Qwen2.5-1.5B | 1.5B | Multi-Tool | Efficient | [🤗 HuggingFace](https://huggingface.co/dongguanting/Tool-Star-Qwen-1.5B) |
-| Tool-Star | Tool-Star-Qwen-3B | Qwen2.5-3B | 3B | Multi-Tool | Balanced | [🤗 HuggingFace](https://huggingface.co/dongguanting/Tool-Star-Qwen-3B) |
-| Tool-Star | Tool-Star-Qwen-7B | Qwen2.5-7B | 7B | Multi-Tool | High Performance | [🤗 HuggingFace](https://huggingface.co/dongguanting/Tool-Star-Qwen-7B) |
-| HierSearch | HierSearch-Local-Agent | - | - | Deep Search | Local Knowledge | [🤖 ModelScope](https://modelscope.cn/models/zstanjj/HierSearch-Local-Agent) |
-| HierSearch | HierSearch-Web-Agent | - | - | Deep Search | Web Knowledge | [🤖 ModelScope](https://modelscope.cn/models/zstanjj/HierSearch-Web-Agent) |
-| HierSearch | HierSearch-Planner-Agent | - | - | Deep Search | Planning | [🤖 ModelScope](https://modelscope.cn/models/zstanjj/HierSearch-Planner-Agent) |
-
 > [!NOTE]
 > **Full Model Collections:** 
 > - 🤗 [ARPO Collection](https://huggingface.co/collections/dongguanting/arpo): 3B~14B ARPO model checkpoints
@@ -531,22 +491,7 @@ Pre-trained and fine-tuned models ready for deployment:
 
 ---
 
-## 📈 Performance Highlights
 
-<div align="center">
-
-| Benchmark | Baseline | ARPO | AEPO | Tool-Star | Improvement |
-|-----------|----------|------|------|-----------|-------------|
-| GAIA | 41.2% | 47.6% | **49.8%** | 45.2% | +8.6% |
-| HLE | 8.6% | 11.2% | **13.5%** | 10.8% | +4.9% |
-| AIME24 | 16.7% | 23.3% | **26.7%** | 24.1% | +10.0% |
-| WebWalker | 42.0% | 58.5% | **62.0%** | 56.3% | +20.0% |
-| MATH500 | 35.2% | 42.1% | **44.8%** | 41.5% | +9.6% |
-| HotpotQA | 68.5% | 74.2% | 76.1% | **77.3%** | +8.8% |
-
-</div>
-
----
 
 ## 📄 Citation
 
