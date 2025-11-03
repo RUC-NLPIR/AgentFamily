@@ -443,25 +443,6 @@ Complete citation list with full author information and proper academic formatti
 
 ---
 
-## 🛠️ Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/RUC-NLPIR/ARPO.git
-cd ARPO
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run ARPO training
-python train_arpo.py --config configs/arpo_config.yaml
-
-# For other agents, check respective directories
-cd ../Search-o1  # or WebThinker, Tool-Star, etc.
-```
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
@@ -479,9 +460,7 @@ This project is released under the [MIT License](LICENSE).
 For questions, collaborations, or feedback:
 
 - 📧 **Email**: [dou@ruc.edu.cn](mailto:dou@ruc.edu.cn)
-- 🐦 **Twitter**: Follow [@kakakbibibi](https://x.com/kakakbibibi) for updates
-- 💬 **Issues**: Open an issue on [GitHub](https://github.com/RUC-NLPIR/ARPO/issues)
-- 🌐 **Website**: [RUC-NLPIR Lab](http://nlp.ruc.edu.cn/)
+- 🌐 **Website**: [RUC-NLPIR Lab](https://ruc-nlpir.github.io/)
 
 ---
 
