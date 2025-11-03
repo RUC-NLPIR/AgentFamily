@@ -259,7 +259,7 @@ Lightweight optimization strategies encouraging efficient tool calling with mini
 - 📚 Self-evolved learning
 - 🎯 Efficient tool calling
 
-[![Code Not Available](https://img.shields.io/badge/Code-Not%20Available-lightgrey)]()
+[![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/RUC-NLPIR/Tool-Light)
 [![arXiv](https://img.shields.io/badge/arXiv-2509.23285-b31b1b.svg)](https://arxiv.org/abs/2509.23285)
 
 </td>
@@ -283,7 +283,6 @@ Specialized agent for financial report generation, analysis, and investment rese
 - 📊 Real-time market research
 - 📈 Investment report generation
 
-[![Code Not Available](https://img.shields.io/badge/Code-Not%20Available-lightgrey)]()
 [![arXiv](https://img.shields.io/badge/arXiv-2510.16844-b31b1b.svg)](https://arxiv.org/abs/2510.16844)
 
 </td>
