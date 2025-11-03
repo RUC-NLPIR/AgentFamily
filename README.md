@@ -308,31 +308,31 @@ Deep research methodology for comprehensive long-form video analysis and questio
 ---
 
 ## 📊 Research Landscape
-div align="center">
+
+<div align="center">
 
 ```mermaid
-flowchart TD
-    A[🌟 RUC-NLPIR Agent Family]
+graph TB
+    A[🌟 RUC-NLPIR Agent Family] --> B[🤖 Agentic RL]
+    A --> C[🔍 Deep Research]
+    A --> D[🛠️ Multi-Tool]
+    A --> E[🎯 Domain-Specific]
     
-    A --> B[🤖 Agentic RL]
-    B --> B1[ARPO - Weekly #1]
-    B --> B2[AEPO - Daily #2]
+    B --> B1[ARPO<br/>Weekly #1]
+    B --> B2[AEPO<br/>Daily #2]
     
-    B2 --> C[🔍 Deep Research]
-    C --> C1[Search-o1 - EMNLP 2025]
-    C --> C2[WebThinker - NeurIPS 2025]
+    C --> C1[Search-o1<br/>EMNLP 2025]
+    C --> C2[WebThinker<br/>NeurIPS 2025]
     C --> C3[HiRA]
     C --> C4[HierSearch]
     
-    C4 --> D[🛠️ Multi-Tool]
     D --> D1[DeepAgent]
     D --> D2[Tool-Star]
     D --> D3[ToolScope]
     D --> D4[Tool-Light]
     
-    D4 --> E[🎯 Domain-Specific]
-    E --> E1[FinSight - Finance]
-    E --> E2[VideoExplorer - Video]
+    E --> E1[FinSight<br/>Finance]
+    E --> E2[VideoExplorer<br/>Video]
     
     style A fill:#e1f5ff,stroke:#0066cc,stroke-width:3px
     style B fill:#fff0e6,stroke:#ff8c00,stroke-width:2px
@@ -342,7 +342,6 @@ flowchart TD
 ```
 
 </div>
-
 
 ---
 
