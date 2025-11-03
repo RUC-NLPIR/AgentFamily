@@ -198,7 +198,7 @@ Framework optimizing LLM agent tool selection by merging semantically similar to
 
 Lightweight optimization strategies encouraging efficient tool calling with minimal overhead.
 
-[![Code Not Available](https://img.shields.io/badge/Code-Not%20Available-lightgrey)]()
+[![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/RUC-NLPIR/Tool-Light)
 [![arXiv](https://img.shields.io/badge/arXiv-2509.23285-b31b1b.svg)](https://arxiv.org/abs/2509.23285)
 
 </td>
