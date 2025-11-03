@@ -45,9 +45,7 @@ Welcome to the **RUC-NLPIR Agent Family**! Our mission is to develop general-pur
 
 - **[Oct 31, 2025]** 🔄 **HiRA Updated!** Hierarchical reasoning framework for decoupled planning and execution in deep search, latest revision available. [[Arxiv](https://arxiv.org/abs/2507.02652)] [[Code](https://github.com/RUC-NLPIR/HiRA)]
 
-- **[Oct 24, 2025]** 🤖 **DeepAgent Released!** A general reasoning agent with scalable toolsets for autonomous thinking, tool discovery and action execution. [[Arxiv](https://arxiv.org/abs/2510.21618)] [[Code](https://github.com/RUC-NLPIR/DeepAgent)]
-
-- **[Oct 22, 2025]** 🔧 **ToolScope Released!** Enhancing LLM agent tool use through tool merging and context-aware filtering with up to 38.6% improvement. [[Arxiv](https://arxiv.org/abs/2510.20036)]
+- **[Oct 24, 2025]**  **DeepAgent Released!** A general reasoning agent with scalable toolsets for autonomous thinking, tool discovery and action execution. [[Arxiv](https://arxiv.org/abs/2510.21618)] [[Code](https://github.com/RUC-NLPIR/DeepAgent)]
 
 - **[Oct 21, 2025]** 🎥 **VideoExplorer Updated!** Think with videos for agentic long-video understanding, latest revision available. [[Arxiv](https://arxiv.org/abs/2506.10821)] [[Code](https://github.com/yhy-2000/VideoDeepResearch)]
 
@@ -124,7 +122,7 @@ Pioneering agentic RL with entropy-driven adaptive branching for enhanced explor
 
 **[Search-o1: Agentic Search-Enhanced Large Reasoning Models](https://arxiv.org/abs/2501.05366)**
 
-📜 *EMNLP 2025 Main Conference*
+📜 *EMNLP 2025 (Oral)*
 
 Prompt-based reasoning with integrated autonomous knowledge retrieval through Agentic RAG.
 
@@ -203,12 +201,14 @@ Hierarchical search across local and online knowledge sources for comprehensive 
 
 **[DeepAgent: General Reasoning with Scalable Toolsets](https://arxiv.org/abs/2510.21618)**
 
+🏆 *HuggingFace Daily Paper #1*
+
 End-to-end reasoning agent with autonomous thinking, tool discovery, and brain-inspired memory folding.
 
 **Key Features:**
-- 🧠 Brain-inspired memory architecture
 - 🔍 Autonomous tool discovery
-- 🎯 End-to-end reasoning
+- 🧠 Brain-inspired memory architecture
+- 🎯 End-to-end agentic reasoning
 
 [![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/RUC-NLPIR/DeepAgent)
 [![arXiv](https://img.shields.io/badge/arXiv-2510.21618-b31b1b.svg)](https://arxiv.org/abs/2510.21618)
@@ -245,7 +245,7 @@ Framework optimizing LLM agent tool selection through semantic merging and intel
 - 📈 38.6% improvement
 
 [![Code Coming Soon](https://img.shields.io/badge/Code-Coming%20Soon-orange)]()
-[![arXiv](https://img.shields.io/badge/arXiv-2510.20036-b31b1b.svg)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2510.xxxxxx-b31b1b.svg)]()
 
 </td>
 <td width="50%">
