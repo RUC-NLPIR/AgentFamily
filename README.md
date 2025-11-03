@@ -57,40 +57,6 @@ Welcome to the **RUC-NLPIR Agent Family**! Our mission is to develop general-pur
 
 ---
 
-## 🔥 Agent Family
-
-### 🤖 Agentic Reinforcement Learning
-
-<table>
-<tr>
-<td width="50%">
-
-**[AEPO: Agentic Entropy-Balanced Policy Optimization](https://arxiv.org/abs/2510.14545)**
-
-🏆 *HuggingFace Daily Paper #2*
-
-Advanced agentic RL algorithm balancing entropy in rollout and policy update phases for superior stability.
-
-[![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/RUC-NLPIR/ARPO)
-[![arXiv](https://img.shields.io/badge/arXiv-2510.14545-b31b1b.svg)](https://arxiv.org/abs/2510.14545)
-[![Stars](https://img.shields.io/github/stars/RUC-NLPIR/ARPO?style=social)](https://github.com/RUC-NLPIR/ARPO)
-
-</td>
-<td width="50%">
-
-**[ARPO: Agentic Reinforced Policy Optimization](https://arxiv.org/abs/2507.19849)**
-
-🏆 *HuggingFace Weekly Paper #1*
-
-Pioneering agentic RL with entropy-driven adaptive branching for enhanced exploration during tool calls.
-
-[![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/RUC-NLPIR/ARPO)
-[![arXiv](https://img.shields.io/badge/arXiv-2507.19849-b31b1b.svg)](https://arxiv.org/abs/2507.19849)
-[![Stars](https://img.shields.io/github/stars/RUC-NLPIR/ARPO?style=social)](https://github.com/RUC-NLPIR/ARPO)
-
-</td>
-</tr>
-</table>
 
 ## 🔥 Agent Family
 
