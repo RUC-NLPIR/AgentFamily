@@ -38,6 +38,9 @@ Welcome to the **RUC-NLPIR Agent Family**! Our mission is to develop general-pur
 
 ## 📣 Latest News
 
+
+- **[Oct 14, 2025]** 🚀 **AEPO Released!** Entropy-balanced agentic RL algorithm with superior performance on GAIA, HLE, and AIME. AEPO is now available on [Arxiv](https://arxiv.org/abs/2510.14545)[[Code]](https://github.com/RUC-NLPIR/ARPO/tree/main/AEPO) [[🤗Hugging Face]](https://huggingface.co/collections/dongguanting/aepo-68ef6832c99697ee03d5e1c7) [Blog](https://mp.weixin.qq.com/s/mL3CTNonZVoLWnQVfK7KAw)
+
 - **[October 27, 2025]**: 📄 DeepAgent is now available on **[arXiv](https://arxiv.org/abs/2510.21618)** and **[Hugging Face](https://huggingface.co/papers/2510.21618)**.
 
 - **[Oct 14, 2025]** 🚀 **AEPO Released!** Entropy-balanced agentic RL algorithm with superior performance on GAIA, HLE, and AIME. AEPO is now available on [Arxiv](https://arxiv.org/abs/2510.14545)[[Code]](https://github.com/RUC-NLPIR/ARPO/tree/main/AEPO) [[🤗Hugging Face]](https://huggingface.co/collections/dongguanting/aepo-68ef6832c99697ee03d5e1c7) [Blog](https://mp.weixin.qq.com/s/mL3CTNonZVoLWnQVfK7KAw)
