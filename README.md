@@ -39,21 +39,31 @@ Welcome to the **RUC-NLPIR Agent Family**! Our mission is to develop general-pur
 ## 📣 Latest News
 
 
-- **[Oct 14, 2025]** 🚀 **AEPO Released!** Entropy-balanced agentic RL algorithm with superior performance on GAIA, HLE, and AIME. AEPO is now available on [Arxiv](https://arxiv.org/abs/2510.14545)[[Code]](https://github.com/RUC-NLPIR/ARPO/tree/main/AEPO) [[🤗Hugging Face]](https://huggingface.co/collections/dongguanting/aepo-68ef6832c99697ee03d5e1c7) [Blog](https://mp.weixin.qq.com/s/mL3CTNonZVoLWnQVfK7KAw)
+- **[Oct 31, 2025]**  🔄 HiRA Updated! Hierarchical reasoning framework for decoupled planning and execution in deep search, latest revision available. [Arxiv] [Code]
 
-- **[October 27, 2025]**: 📄 DeepAgent is now available on **[arXiv](https://arxiv.org/abs/2510.21618)** and **[Hugging Face](https://huggingface.co/papers/2510.21618)**.
+- **[Oct 24, 2025]**  🤖 DeepAgent Released! A general reasoning agent with scalable toolsets for autonomous thinking, tool discovery and action execution. [Arxiv] [Code]
 
-- **[Oct 14, 2025]** 🚀 **AEPO Released!** Entropy-balanced agentic RL algorithm with superior performance on GAIA, HLE, and AIME. AEPO is now available on [Arxiv](https://arxiv.org/abs/2510.14545)[[Code]](https://github.com/RUC-NLPIR/ARPO/tree/main/AEPO) [[🤗Hugging Face]](https://huggingface.co/collections/dongguanting/aepo-68ef6832c99697ee03d5e1c7) [Blog](https://mp.weixin.qq.com/s/mL3CTNonZVoLWnQVfK7KAw)
+- **[Oct 22, 2025]**  🔧 ToolScope Released! Enhancing LLM agent tool use through tool merging and context-aware filtering with up to 38.6% improvement. [Arxiv]
 
-- **[Sept 23, 2025]** 📄 **Tool-Light** released! Encouraging efficient tool invocation through lightweight optimization strategies. [[Paper]](https://arxiv.org/abs/2509.23285)
+- **[Oct 21, 2025]**  🎥 VideoExplorer Updated! Think with videos for agentic long-video understanding, latest revision available. [Arxiv] [Code]
 
-- **[Aug 11, 2025]** 📢 ARPO featured on multiple platforms: [X](https://x.com/kakakbibibi/status/1950211490943832393) | [WeChat](https://mp.weixin.qq.com/s/mFNRs-bHCAAe3x4QZHF8aA) | [Zhihu](https://zhuanlan.zhihu.com/p/1938022709545141501) | [YouTube](https://www.youtube.com/watch?v=FOK2tRtq7TE) | [Xiaohongshu](https://www.xiaohongshu.com/explore/68885b6b000000002501bb5e)
+- **[Oct 19, 2025]**  💰 FinSight Released! Multi-agent framework for real-world financial deep research and report generation. [Arxiv]
 
-- **[July 29, 2025]** 🔥 ARPO honored as 🤗 HuggingFace **Daily Paper #1** and **Weekly Paper #1**! [[Paper]](https://huggingface.co/papers/2507.19849)
+- **[Oct 16, 2025]**  🚀 AEPO Released! Entropy-balanced agentic RL algorithm with superior performance on GAIA, HLE, and AIME. [Arxiv] [Code] [🤗Hugging Face] [Blog]
 
-- **[July 25, 2025]** 🎉 Full release: ARPO model checkpoints (3B~14B), datasets (SFT, RL, Evaluation), and complete codebase! [[🤗 Collection]](https://huggingface.co/collections/dongguanting/arpo-688229ff8a6143fe5b4ad8ae)
+- **[Oct 13, 2025]**  🌐 WebThinker Updated! Deep research capability for LRMs with autonomous web search and report drafting, accepted by NeurIPS 2025. [Arxiv] [Code]
 
-- **[July 25, 2025]** ⚡ Major optimization: Qwen3-14B training with batch size 128 takes only **10 minutes/step** with dynamic cache mechanism!
+- **[Sep 30, 2025]** 💡 Tool-Light Updated! Self-evolved preference learning for effective tool-integrated reasoning, latest revision available. [Arxiv]
+
+- **[Aug 11, 2025]** 🏢 HierSearch Released! Hierarchical enterprise deep search framework integrating local and web searches. [Arxiv] [Code]
+
+- **[Jul 26, 2025]**  🎯 ARPO Released! Agentic reinforced policy optimization for multi-turn LLM-based agents with entropy-based adaptive rollout. [Arxiv] [Code]
+
+- **[May 22, 2025]** ⭐ Tool-Star Released! Empowering LLM-brained multi-tool reasoner via reinforcement learning with six types of tools. [Arxiv] [Code]
+
+- **[Jan 9, 2025]** 🔍 Search-o1 Released! Agentic search-enhanced large reasoning models with dynamic knowledge retrieval and document reasoning. [Arxiv] [Code]
+
+
 
 ---
 
