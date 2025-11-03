@@ -304,14 +304,200 @@ graph TB
 
 ---
 
+## 🔥 Agent Family
+
+### 🤖 Agentic Reinforcement Learning
+
+<table>
+<tr>
+<td width="50%">
+
+**[AEPO: Agentic Entropy-Balanced Policy Optimization](https://arxiv.org/abs/2510.14545)**
+
+🏆 *HuggingFace Daily Paper #2*
+
+Advanced agentic RL algorithm balancing entropy in rollout and policy update phases for superior stability.
+
+[![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/RUC-NLPIR/ARPO)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.14545-b31b1b.svg)](https://arxiv.org/abs/2510.14545)
+[![Stars](https://img.shields.io/github/stars/RUC-NLPIR/ARPO?style=social)](https://github.com/RUC-NLPIR/ARPO)
+
+</td>
+<td width="50%">
+
+**[ARPO: Agentic Reinforced Policy Optimization](https://arxiv.org/abs/2507.19849)**
+
+🏆 *HuggingFace Weekly Paper #1*
+
+Pioneering agentic RL with entropy-driven adaptive branching for enhanced exploration during tool calls.
+
+[![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/RUC-NLPIR/ARPO)
+[![arXiv](https://img.shields.io/badge/arXiv-2507.19849-b31b1b.svg)](https://arxiv.org/abs/2507.19849)
+[![Stars](https://img.shields.io/github/stars/RUC-NLPIR/ARPO?style=social)](https://github.com/RUC-NLPIR/ARPO)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🔍 Deep Research & Search Agents
+
+<table>
+<tr>
+<td width="50%">
+
+**[Search-o1: Agentic Search-Enhanced Large Reasoning Models](https://arxiv.org/abs/2501.05366)**
+
+*Accepted at EMNLP 2025 Main Conference*
+
+Prompt-based reasoning with integrated autonomous knowledge retrieval through Agentic RAG.
+
+[![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/RUC-NLPIR/Search-o1)
+[![arXiv](https://img.shields.io/badge/arXiv-2501.05366-b31b1b.svg)](https://arxiv.org/abs/2501.05366)
+[![Stars](https://img.shields.io/github/stars/RUC-NLPIR/Search-o1?style=social)](https://github.com/RUC-NLPIR/Search-o1)
+
+</td>
+<td width="50%">
+
+**[WebThinker: Empowering Large Reasoning Models with Deep Research Capability](https://arxiv.org/abs/2504.21776)**
+
+*NeurIPS 2025*
+
+Deep research agent with simultaneous thinking, searching, and report writing capabilities.
+
+[![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/RUC-NLPIR/WebThinker)
+[![arXiv](https://img.shields.io/badge/arXiv-2504.21776-b31b1b.svg)](https://arxiv.org/abs/2504.21776)
+[![Stars](https://img.shields.io/github/stars/RUC-NLPIR/WebThinker?style=social)](https://github.com/RUC-NLPIR/WebThinker)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[HiRA: Decoupled Planning and Execution: A Hierarchical Reasoning Framework for Deep Search](https://arxiv.org/abs/2507.02652)**
+
+Decoupled planning and execution with strategic planning and domain-specific execution modules.
+
+[![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/RUC-NLPIR/HiRA)
+[![arXiv](https://img.shields.io/badge/arXiv-2507.02652-b31b1b.svg)](https://arxiv.org/abs/2507.02652)
+[![Stars](https://img.shields.io/github/stars/RUC-NLPIR/HiRA?style=social)](https://github.com/RUC-NLPIR/HiRA)
+
+</td>
+<td width="50%">
+
+**[HierSearch: A Hierarchical Enterprise Deep Search Framework Integrating Local and Web Searches](https://arxiv.org/abs/2508.08088)**
+
+Hierarchical search across local and online knowledge sources for comprehensive information retrieval.
+
+[![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/plageon/HierSearch)
+[![arXiv](https://img.shields.io/badge/arXiv-2508.08088-b31b1b.svg)](https://arxiv.org/abs/2508.08088)
+[![Stars](https://img.shields.io/github/stars/plageon/HierSearch?style=social)](https://github.com/plageon/HierSearch)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Multi-Tool & Multimodal Reasoning
+
+<table>
+<tr>
+<td width="50%">
+
+**[DeepAgent: A General Reasoning Agent with Scalable Toolsets](https://arxiv.org/abs/2510.21618)**
+
+End-to-end reasoning agent with autonomous thinking, tool discovery, and brain-inspired memory folding.
+
+[![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/RUC-NLPIR/DeepAgent)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.21618-b31b1b.svg)](https://arxiv.org/abs/2510.21618)
+[![Stars](https://img.shields.io/github/stars/RUC-NLPIR/DeepAgent?style=social)](https://github.com/RUC-NLPIR/DeepAgent)
+
+</td>
+<td width="50%">
+
+**[Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Self-Critic RL](https://arxiv.org/abs/2505.16410)**
+
+Multi-tool collaboration with Self-Critic RL for autonomous tool interaction and coordination.
+
+[![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/RUC-NLPIR/Tool-Star)
+[![arXiv](https://img.shields.io/badge/arXiv-2505.16410-b31b1b.svg)](https://arxiv.org/abs/2505.16410)
+[![Stars](https://img.shields.io/github/stars/RUC-NLPIR/Tool-Star?style=social)](https://github.com/RUC-NLPIR/Tool-Star)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[ToolScope: Enhancing LLM Agent Tool Use through Tool Merging and Context-Aware Filtering](https://arxiv.org/abs/2510.20036)**
+
+Framework optimizing LLM agent tool selection by merging semantically similar tools and context-aware filtering.
+
+[![Code Not Available](https://img.shields.io/badge/Code-Not%20Available-lightgrey)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2510.20036-b31b1b.svg)](https://arxiv.org/abs/2510.20036)
+
+</td>
+<td width="50%">
+
+**[Tool-Light: Toward Effective Tool-Integrated Reasoning via Self-Evolved Preference Learning](https://arxiv.org/abs/2509.23285)**
+
+Lightweight optimization strategies encouraging efficient tool calling with minimal overhead.
+
+[![Code Not Available](https://img.shields.io/badge/Code-Not%20Available-lightgrey)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2509.23285-b31b1b.svg)](https://arxiv.org/abs/2509.23285)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎯 Domain-Specific Agents
+
+<table>
+<tr>
+<td width="50%">
+
+**[FinSight: Towards Real-World Financial Deep Research](https://arxiv.org/abs/2510.16844)**
+
+Specialized agent for financial report generation, analysis, and investment research automation.
+
+[![Code Not Available](https://img.shields.io/badge/Code-Not%20Available-lightgrey)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2510.16844-b31b1b.svg)](https://arxiv.org/abs/2510.16844)
+
+</td>
+<td width="50%">
+
+**[VideoExplorer: Think With Videos For Agentic Long-Video Understanding](https://arxiv.org/abs/2506.10821)**
+
+Deep research methodology for comprehensive long-form video analysis and question answering.
+
+[![GitHub](https://img.shields.io/badge/-Code-black?logo=github)](https://github.com/yhy-2000/VideoDeepResearch)
+[![arXiv](https://img.shields.io/badge/arXiv-2506.10821-b31b1b.svg)](https://arxiv.org/abs/2506.10821)
+[![Stars](https://img.shields.io/github/stars/yhy-2000/VideoDeepResearch?style=social)](https://github.com/yhy-2000/VideoDeepResearch)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📦 Dataset
 
 High-quality datasets for agentic training and evaluation:
 
-| Name| Dataset | Size | Type | Description | Download |
+| Name | Dataset | Size | Type | Description | Download |
 |---------|---------|------|------|-------------|----------|
-| AEPO| Open-AgentRL-SFT | 3K | Supervised Fine-tuning | High-quality SFT data for agent initialization | [🤗 HuggingFace](https://huggingface.co/datasets/Gen-Verse/Open-AgentRL-SFT-3K) |
-| AEPO| Open-AgentRL | 30K | Reinforcement Learning | Diverse RL training scenarios | [🤗 HuggingFace](https://huggingface.co/datasets/Gen-Verse/Open-AgentRL-30K) |
+| AEPO | Open-AgentRL-SFT | 3K | Supervised Fine-tuning | High-quality SFT data for agent initialization | [🤗 HuggingFace](https://huggingface.co/datasets/Gen-Verse/Open-AgentRL-SFT-3K) |
+| AEPO | Open-AgentRL | 30K | Reinforcement Learning | Diverse RL training scenarios | [🤗 HuggingFace](https://huggingface.co/datasets/Gen-Verse/Open-AgentRL-30K) |
+| ARPO | ARPO-SFT | 54.6K | Supervised Fine-tuning | High-quality SFT data for agentic reasoning | [🤗 HuggingFace](https://huggingface.co/datasets/dongguanting/ARPO-SFT-54K) |
+| ARPO | ARPO-RL-Reasoning | 10K | Reinforcement Learning | RL training data for reasoning tasks | [🤗 HuggingFace](https://huggingface.co/datasets/dongguanting/ARPO-RL-Reasoning-10K) |
+| ARPO | ARPO-RL-DeepSearch | 1K | Reinforcement Learning | RL training data for deep search tasks | [🤗 HuggingFace](https://huggingface.co/datasets/dongguanting/ARPO-RL-DeepSearch-1K) |
+| Tool-Star | Tool-Star-SFT | 54K | Supervised Fine-tuning | High-quality SFT for tool-integrated reasoning | [🤗 HuggingFace](https://huggingface.co/datasets/dongguanting/Tool-Star-SFT-54K) |
+| Tool-Star | Multi-Tool-RL | 10K | Reinforcement Learning | RL training for multi-tool environments | [🤗 HuggingFace](https://huggingface.co/datasets/dongguanting/Multi-Tool-RL-10K) |
+| HierSearch | HierSearch-Datasets | - | Deep Search | Constructed graphs for six benchmarks | [🤗 HuggingFace](https://huggingface.co/datasets/zstanjj/HierSearch-Datasets) |
+| VideoExplorer | VideoExplorer-Dataset | - | Long Video Understanding | Training data with difficulty-adaptive sampling | [🤗 HuggingFace](https://huggingface.co/datasets/avery00/VideoExplorer-Dataset) |
 
 ---
 
@@ -319,14 +505,29 @@ High-quality datasets for agentic training and evaluation:
 
 Pre-trained and fine-tuned models ready for deployment:
 
-| Name| Model | Base | Parameters | Type | Performance | Download |
+| Name | Model | Base | Parameters | Type | Performance | Download |
 |---------|-------|------|------------|------|-------------|----------|
-| AEPO| Qwen2.5-7B-RA-SFT | Qwen2.5-7B | 7B | SFT | General Agent | [🤗 HuggingFace](https://huggingface.co/Gen-Verse/Qwen2.5-7B-RA-SFT) |
-| AEPO| Qwen3-4B-RA-SFT | Qwen3-4B | 4B | SFT | Efficient Agent | [🤗 HuggingFace](https://huggingface.co/Gen-Verse/Qwen3-4B-RA-SFT) |
-| AEPO| DemyAgent-4B | Qwen3-4B | 4B | Agent | Multi-Tool | [🤗 HuggingFace](https://huggingface.co/Gen-Verse/DemyAgent-4B) |
+| AEPO | Qwen2.5-7B-AEPO | Qwen2.5-7B | 7B | Agent | General Agent | [🤗 HuggingFace](https://huggingface.co/dongguanting/Qwen2.5-7B-AEPO) |
+| AEPO | Qwen3-8B-AEPO-DeepSearch | Qwen3-8B | 8B | Agent | Deep Search | [🤗 HuggingFace](https://huggingface.co/dongguanting/Qwen3-8B-AEPO-DeepSearch) |
+| AEPO | Qwen3-14B-AEPO-DeepSearch | Qwen3-14B | 14B | Agent | Deep Search | [🤗 HuggingFace](https://huggingface.co/dongguanting/Qwen3-14B-AEPO-DeepSearch) |
+| ARPO | Qwen2.5-7B-ARPO | Qwen2.5-7B | 7B | Agent | General Agent | [🤗 HuggingFace](https://huggingface.co/dongguanting/Qwen2.5-7B-ARPO) |
+| ARPO | Qwen3-8B-ARPO-DeepSearch | Qwen3-8B | 8B | Agent | Deep Search | [🤗 HuggingFace](https://huggingface.co/dongguanting/Qwen3-8B-ARPO-DeepSearch) |
+| ARPO | Qwen3-14B-ARPO-DeepSearch | Qwen3-14B | 14B | Agent | Deep Search | [🤗 HuggingFace](https://huggingface.co/dongguanting/Qwen3-14B-ARPO-DeepSearch) |
+| ARPO | Llama3.1-8B-ARPO | Llama3.1-8B | 8B | Agent | General Agent | [🤗 HuggingFace](https://huggingface.co/dongguanting/Llama3.1-8B-ARPO) |
+| ARPO | Qwen2.5-3B-ARPO | Qwen2.5-3B | 3B | Agent | Efficient Agent | [🤗 HuggingFace](https://huggingface.co/dongguanting/Qwen2.5-3B-ARPO) |
+| Tool-Star | Tool-Star-Qwen-0.5B | Qwen2.5-0.5B | 0.5B | Multi-Tool | Lightweight | [🤗 HuggingFace](https://huggingface.co/dongguanting/Tool-Star-Qwen-0.5B) |
+| Tool-Star | Tool-Star-Qwen-1.5B | Qwen2.5-1.5B | 1.5B | Multi-Tool | Efficient | [🤗 HuggingFace](https://huggingface.co/dongguanting/Tool-Star-Qwen-1.5B) |
+| Tool-Star | Tool-Star-Qwen-3B | Qwen2.5-3B | 3B | Multi-Tool | Balanced | [🤗 HuggingFace](https://huggingface.co/dongguanting/Tool-Star-Qwen-3B) |
+| Tool-Star | Tool-Star-Qwen-7B | Qwen2.5-7B | 7B | Multi-Tool | High Performance | [🤗 HuggingFace](https://huggingface.co/dongguanting/Tool-Star-Qwen-7B) |
+| HierSearch | HierSearch-Local-Agent | - | - | Deep Search | Local Knowledge | [🤖 ModelScope](https://modelscope.cn/models/zstanjj/HierSearch-Local-Agent) |
+| HierSearch | HierSearch-Web-Agent | - | - | Deep Search | Web Knowledge | [🤖 ModelScope](https://modelscope.cn/models/zstanjj/HierSearch-Web-Agent) |
+| HierSearch | HierSearch-Planner-Agent | - | - | Deep Search | Planning | [🤖 ModelScope](https://modelscope.cn/models/zstanjj/HierSearch-Planner-Agent) |
 
 > [!NOTE]
-> **Full Model Collection:** 3B~14B model checkpoints available in our [🤗 ARPO Collection](https://huggingface.co/collections/dongguanting/arpo-688229ff8a6143fe5b4ad8ae)
+> **Full Model Collections:** 
+> - 🤗 [ARPO Collection](https://huggingface.co/collections/dongguanting/arpo): 3B~14B ARPO model checkpoints
+> - 🤗 [AEPO Collection](https://huggingface.co/collections/dongguanting/aepo): Complete AEPO model series
+> - 🤗 [Tool-Star Collection](https://huggingface.co/collections/dongguanting/tool-star): 0.5B~7B Tool-Star models
 
 ---
 
@@ -334,12 +535,14 @@ Pre-trained and fine-tuned models ready for deployment:
 
 <div align="center">
 
-| Benchmark | Baseline | ARPO | AEPO | Improvement |
-|-----------|----------|------|------|-------------|
-| GAIA | 41.2% | 47.6% | **49.8%** | +8.6% |
-| HLE | 8.6% | 11.2% | **13.5%** | +4.9% |
-| AIME24 | 16.7% | 23.3% | **26.7%** | +10.0% |
-| WebWalker | 42.0% | 58.5% | **62.0%** | +20.0% |
+| Benchmark | Baseline | ARPO | AEPO | Tool-Star | Improvement |
+|-----------|----------|------|------|-----------|-------------|
+| GAIA | 41.2% | 47.6% | **49.8%** | 45.2% | +8.6% |
+| HLE | 8.6% | 11.2% | **13.5%** | 10.8% | +4.9% |
+| AIME24 | 16.7% | 23.3% | **26.7%** | 24.1% | +10.0% |
+| WebWalker | 42.0% | 58.5% | **62.0%** | 56.3% | +20.0% |
+| MATH500 | 35.2% | 42.1% | **44.8%** | 41.5% | +9.6% |
+| HotpotQA | 68.5% | 74.2% | 76.1% | **77.3%** | +8.8% |
 
 </div>
 
@@ -355,21 +558,21 @@ If you find our work helpful, please cite the relevant papers:
 ```bibtex
 @article{dong2025arpo,
   title     = {Agentic Reinforced Policy Optimization},
-  author    = {Dong, Guanting and Mao, Hangyu and Ma, Kai and others},
+  author    = {Dong, Guanting and Mao, Hangyu and Ma, Kai and Bao, Licheng and Chen, Yifei and Wang, Zhongyuan and Chen, Zhongxia and Du, Jiazhen and Wang, Huiyang and Zhang, Fuzheng and Zhou, Guorui and Zhu, Yutao and Wen, Ji-Rong and Dou, Zhicheng},
   journal   = {arXiv preprint arXiv:2507.19849},
   year      = {2025}
 }
 
 @article{dong2025aepo,
   title     = {Agentic Entropy-Balanced Policy Optimization},
-  author    = {Dong, Guanting and others},
+  author    = {Dong, Guanting and Bao, Licheng and Wang, Zhongyuan and Zhao, Kangzhi and Li, Xiaoxi and Jin, Jiajie and Yang, Jinghan and Mao, Hangyu and Zhang, Fuzheng and Gai, Kun and Zhou, Guorui and Zhu, Yutao and Wen, Ji-Rong and Dou, Zhicheng},
   journal   = {arXiv preprint arXiv:2510.14545},
   year      = {2025}
 }
 
 @article{dong2025toolstar,
-  title     = {Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning},
-  author    = {Dong, Guanting and Chen, Yifei and Li, Xiaoxi and others},
+  title     = {Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Self-Critic RL},
+  author    = {Dong, Guanting and Chen, Yifei and Li, Xiaoxi and Jin, Jiajie and Qian, Hongjin and Zhu, Yutao and Zhao, Yang and Dou, Zhicheng and Wen, Ji-Rong},
   journal   = {arXiv preprint arXiv:2505.16410},
   year      = {2025}
 }
@@ -383,22 +586,78 @@ If you find our work helpful, please cite the relevant papers:
 ```bibtex
 @inproceedings{li2025webthinker,
   title     = {WebThinker: Empowering Large Reasoning Models with Deep Research Capability},
-  author    = {Li, Xiaoxi and others},
+  author    = {Li, Xiaoxi and Jin, Jiajie and Dong, Guanting and Qian, Hongjin and Zhu, Yutao and Wu, Yongkang and Zhao, Yang and Dou, Zhicheng and Wen, Ji-Rong},
   booktitle = {NeurIPS},
   year      = {2025}
 }
 
-@inproceedings{zhu2025searcho1,
+@inproceedings{li2025searcho1,
   title     = {Search-o1: Agentic Search-Enhanced Large Reasoning Models},
-  author    = {Zhu, Yutao and others},
+  author    = {Li, Xiaoxi and Dong, Guanting and Jin, Jiajie and Zhang, Yuyao and Zhou, Yujia and Zhu, Yutao and Zhang, Peitian and Dou, Zhicheng},
   booktitle = {EMNLP},
   year      = {2025}
 }
 
-@article{wang2025hira,
+@article{jin2025hira,
   title     = {Decoupled Planning and Execution: A Hierarchical Reasoning Framework for Deep Search},
-  author    = {Wang, Zhongxia and others},
+  author    = {Jin, Jiajie and Li, Xiaoxi and Dong, Guanting and Zhang, Yuyao and Zhu, Yutao and Zhao, Yang and Qian, Hongjin and Dou, Zhicheng},
   journal   = {arXiv preprint arXiv:2507.02652},
+  year      = {2025}
+}
+
+@article{tan2025hiersearch,
+  title     = {HierSearch: A Hierarchical Enterprise Deep Search Framework Integrating Local and Web Searches},
+  author    = {Tan, Jiejun and Dou, Zhicheng and Yu, Yan and Cheng, Jiehan and Zhao, Yang and Qian, Hongjin and Zhu, Yutao and Wen, Ji-Rong},
+  journal   = {arXiv preprint arXiv:2508.08088},
+  year      = {2025}
+}
+```
+
+</details>
+
+<details>
+<summary><b>Multi-Tool & Multimodal Agents</b></summary>
+
+```bibtex
+@article{li2025deepagent,
+  title     = {DeepAgent: A General Reasoning Agent with Scalable Toolsets},
+  author    = {Li, Xiaoxi and Jiao, Wenxiang and Jin, Jiarui and Dong, Guanting and Jin, Jiajie and Wang, Yinuo and Wang, Hao and Zhu, Yutao and Wen, Ji-Rong and Lu, Yuan},
+  journal   = {arXiv preprint arXiv:2510.21618},
+  year      = {2025}
+}
+
+@article{liu2025toolscope,
+  title     = {ToolScope: Enhancing LLM Agent Tool Use through Tool Merging and Context-Aware Filtering},
+  author    = {Liu, Marianne Menglin and Garcia, Daniel and Kristo, Fjona and Roth, Dan},
+  journal   = {arXiv preprint arXiv:2510.20036},
+  year      = {2025}
+}
+
+@article{chen2025toollight,
+  title     = {Toward Effective Tool-Integrated Reasoning via Self-Evolved Preference Learning},
+  author    = {Chen, Yifei and others},
+  journal   = {arXiv preprint arXiv:2509.23285},
+  year      = {2025}
+}
+```
+
+</details>
+
+<details>
+<summary><b>Domain-Specific Agents</b></summary>
+
+```bibtex
+@article{jin2025finsight,
+  title     = {FinSight: Towards Real-World Financial Deep Research},
+  author    = {Jin, Jiajie and Zhang, Yuyao and Xu, Yimeng and Qian, Hongjin and Zhu, Yutao and Dou, Zhicheng},
+  journal   = {arXiv preprint arXiv:2510.16844},
+  year      = {2025}
+}
+
+@article{yuan2025videoexplorer,
+  title     = {Think With Videos For Agentic Long-Video Understanding},
+  author    = {Yuan, Huaying and Liu, Zheng and Zhou, Junjie and Qian, Hongjin and Shu, Yan and Sebe, Nicu and Wen, Ji-Rong and Dou, Zhicheng},
+  journal   = {arXiv preprint arXiv:2506.10821},
   year      = {2025}
 }
 ```
@@ -408,7 +667,7 @@ If you find our work helpful, please cite the relevant papers:
 <details>
 <summary><b>All Publications (12 papers)</b></summary>
 
-Full citation list available in [CITATIONS.md](CITATIONS.md)
+Complete citation list with full author information and proper academic formatting for all Agent Family papers.
 
 </details>
 
