@@ -540,7 +540,7 @@ We thank all contributors and the open-source community for their invaluable sup
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=RUC-NLPIR/ARPO,RUC-NLPIR/Tool-Star,RUC-NLPIR/WebThinker,RUC-NLPIR/Search-o1&type=Date)](https://star-history.com/#RUC-NLPIR/ARPO&RUC-NLPIR/Tool-Star&RUC-NLPIR/WebThinker&RUC-NLPIR/Search-o1&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=RUC-NLPIR/ARPO,RUC-NLPIR/Search-o1,RUC-NLPIR/WebThinker,RUC-NLPIR/HiRA,plageon/HierSearch,RUC-NLPIR/DeepAgent,RUC-NLPIR/Tool-Star,yhy-2000/VideoDeepResearch&type=Date)](https://star-history.com/#RUC-NLPIR/ARPO&RUC-NLPIR/Search-o1&RUC-NLPIR/WebThinker&RUC-NLPIR/HiRA&plageon/HierSearch&RUC-NLPIR/DeepAgent&RUC-NLPIR/Tool-Star&yhy-2000/VideoDeepResearch&Date)
 
 </div>
 
