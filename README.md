@@ -122,7 +122,7 @@ Pioneering agentic RL with entropy-driven adaptive branching for enhanced explor
 
 **[Search-o1: Agentic Search-Enhanced Large Reasoning Models](https://arxiv.org/abs/2501.05366)**
 
-📜 **EMNLP 2025 (Oral)**
+📜 ***EMNLP 2025 (Oral)***
 
 Prompt-based reasoning with integrated autonomous knowledge retrieval through Agentic RAG.
 
@@ -138,9 +138,9 @@ Prompt-based reasoning with integrated autonomous knowledge retrieval through Ag
 </td>
 <td width="50%">
 
-**[WebThinker: Empowering LRMs with Deep Research](https://arxiv.org/abs/2504.21776)**
+**[WebThinker: Empowering Large Reasoning Models with Deep Research](https://arxiv.org/abs/2504.21776)**
 
-📜 **NeurIPS 2025**
+📜 ***NeurIPS 2025***
 
 Deep research agent with simultaneous thinking, searching, and report writing capabilities.
 
