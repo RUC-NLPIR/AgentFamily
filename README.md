@@ -312,27 +312,28 @@ Deep research methodology for comprehensive long-form video analysis and questio
 <div align="center">
 
 ```mermaid
-graph TB
-    A[🌟 RUC-NLPIR Agent Family] --> B[🤖 Agentic RL]
+graph TD
+    A[🌟 RUC-NLPIR Agent Family]
+    
+    A --> B[🤖 Agentic RL]
+    B --> B1[ARPO - Weekly #1]
+    B --> B2[AEPO - Daily #2]
+    
     A --> C[🔍 Deep Research]
-    A --> D[🛠️ Multi-Tool]
-    A --> E[🎯 Domain-Specific]
-    
-    B --> B1[ARPO<br/>Weekly #1]
-    B --> B2[AEPO<br/>Daily #2]
-    
-    C --> C1[Search-o1<br/>EMNLP 2025]
-    C --> C2[WebThinker<br/>NeurIPS 2025]
+    C --> C1[Search-o1 - EMNLP 2025]
+    C --> C2[WebThinker - NeurIPS 2025]
     C --> C3[HiRA]
     C --> C4[HierSearch]
     
+    A --> D[🛠️ Multi-Tool]
     D --> D1[DeepAgent]
     D --> D2[Tool-Star]
     D --> D3[ToolScope]
     D --> D4[Tool-Light]
     
-    E --> E1[FinSight<br/>Finance]
-    E --> E2[VideoExplorer<br/>Video]
+    A --> E[🎯 Domain-Specific]
+    E --> E1[FinSight - Finance]
+    E --> E2[VideoExplorer - Video]
     
     style A fill:#e1f5ff,stroke:#0066cc,stroke-width:3px
     style B fill:#fff0e6,stroke:#ff8c00,stroke-width:2px
@@ -342,6 +343,7 @@ graph TB
 ```
 
 </div>
+
 
 ---
 
