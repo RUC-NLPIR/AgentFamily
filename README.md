@@ -245,7 +245,7 @@ Framework optimizing LLM agent tool selection through semantic merging and intel
 - 📈 38.6% improvement
 
 [![Code Coming Soon](https://img.shields.io/badge/Code-Coming%20Soon-orange)]()
-[![arXiv](https://img.shields.io/badge/arXiv-2510.20036-b31b1b.svg)](https://arxiv.org/abs/2510.20036)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.20036-b31b1b.svg)]()
 
 </td>
 <td width="50%">
