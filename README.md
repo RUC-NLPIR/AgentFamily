@@ -272,7 +272,7 @@ graph TB
 ---
 
 
-## 🤗 Huggingface Collections:** 
+## 🤗 Huggingface Collections: 
 > - 🤗 [ARPO Collection](https://huggingface.co/collections/dongguanting/arpo): SFT & RL datasets & 3B~14B ARPO model checkpoints
 > - 🤗 [AEPO Collection](https://huggingface.co/collections/dongguanting/aepo):  7B~14B AEPO model series
 > - 🤗 [Tool-Star Collection](https://huggingface.co/collections/dongguanting/tool-star): SFT & RL datasets & 0.5B~7B Tool-Star models
