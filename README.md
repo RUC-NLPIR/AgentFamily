@@ -454,12 +454,6 @@ If you find our work helpful, please cite the relevant papers:
   year      = {2025}
 }
 
-@article{liu2025toolscope,
-  title     = {ToolScope: Enhancing LLM Agent Tool Use through Tool Merging and Context-Aware Filtering},
-  author    = {Liu, Marianne Menglin and Garcia, Daniel and Kristo, Fjona and Roth, Dan},
-  journal   = {arXiv preprint arXiv:2510.20036},
-  year      = {2025}
-}
 
 @article{chen2025toollight,
   title     = {Toward Effective Tool-Integrated Reasoning via Self-Evolved Preference Learning},
