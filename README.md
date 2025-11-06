@@ -235,17 +235,17 @@ Multi-tool collaboration with Self-Critic RL for autonomous tool interaction and
 <tr>
 <td width="50%">
 
-**[ToolScope: Tool Merging & Context-Aware Filtering](https://arxiv.org/abs/2510.20036)**
+**[ToolScope: Agentic Search & Reasoning Framework](https://arxiv.org/abs/2510.27363)**
 
-Framework optimizing LLM agent tool selection through semantic merging and intelligent filtering.
+An Agentic Framework for Vision-Guided and Long-Horizon Tool Use.
 
 **Key Features:**
-- 🔄 Semantic tool merging
-- 🎯 Context-aware filtering
-- 📈 38.6% improvement
+- 🔄 Visual guided tools
+- 🎯 Long-Horizon Tool Use
+- 📈 Visual Agentic Reasoning
 
 [![Code Coming Soon](https://img.shields.io/badge/Code-Coming%20Soon-orange)]()
-[![arXiv](https://img.shields.io/badge/arXiv-2510.xxxxxx-b31b1b.svg)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2510.xxxxxx-b31b1b.svg)](https://arxiv.org/abs/2510.27363)
 
 </td>
 <td width="50%">
