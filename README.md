@@ -176,6 +176,8 @@ Decoupled planning and execution with strategic planning and domain-specific exe
 
 **[HierSearch: Hierarchical Enterprise Deep Search](https://arxiv.org/abs/2508.08088)**
 
+📜 ***AAAI 2026***
+
 Hierarchical search across local and online knowledge sources for comprehensive information retrieval.
 
 **Key Features:**
@@ -218,6 +220,8 @@ End-to-end reasoning agent with autonomous thinking, tool discovery, and brain-i
 <td width="50%">
 
 **[Tool-Star: LLM-Brained Multi-Tool Reasoner](https://arxiv.org/abs/2505.16410)**
+
+🏆 *HuggingFace Daily Paper #2*
 
 Multi-tool collaboration with Self-Critic RL for autonomous tool interaction and coordination.
 
