@@ -248,7 +248,7 @@ An Agentic Framework for Vision-Guided and Long-Horizon Tool Use.
 - 🎯 Long-Horizon Tool Use
 - 📈 Visual Agentic Reasoning
 
-[![arXiv](https://img.shields.io/badge/arXiv-2510.xxxxxx-b31b1b.svg)](https://arxiv.org/abs/2510.27363)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.27363-b31b1b.svg)](https://arxiv.org/abs/2510.27363)
 
 </td>
 <td width="50%">
