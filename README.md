@@ -3,7 +3,7 @@
 
 
 
-# ✨ RUC-NLPIR Agent Family
+# ✨ iAgent: RUC Agent Family
 
 <h3>Towards General, Scalable, Powerful, and Safe Intelligent Agents</h3>
 
